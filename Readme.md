@@ -18,8 +18,6 @@ This is a simple stopwatch application built with HTML, CSS, and JavaScript. It 
 
 ## Preview
 
-![Stopwatch Preview](stopwatch-preview.png)
-
 ## Credits
 
 This project is created by [Your Name] as part of [Any Additional Information].
