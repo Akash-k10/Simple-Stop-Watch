@@ -16,10 +16,6 @@ This is a simple stopwatch application built with HTML, CSS, and JavaScript. It 
 4. Use the "Stop" button to pause the stopwatch if needed.
 5. Press the "Reset" button to clear the stopwatch and start over.
 
-## Credits
-
-This project is created by [Your Name] as part of [Any Additional Information].
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
